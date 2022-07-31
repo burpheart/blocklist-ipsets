@@ -1,0 +1,38 @@
+[
+	{
+		"code": "AU",
+		"value": 2304
+	},
+	{
+		"code": "COUNTRYLESS",
+		"value": 595429632
+	},
+	{
+		"code": "DK",
+		"value": 256
+	},
+	{
+		"code": "IN",
+		"value": 256
+	},
+	{
+		"code": "MU",
+		"value": 1502464
+	},
+	{
+		"code": "NZ",
+		"value": 256
+	},
+	{
+		"code": "PH",
+		"value": 256
+	},
+	{
+		"code": "RU",
+		"value": 1024
+	},
+	{
+		"code": "US",
+		"value": 256
+	}
+]
